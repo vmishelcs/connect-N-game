@@ -2,7 +2,6 @@
 //Date: 2/11/2019
 
 /*
-Assignment 1:
 Develop an algorithm to implement the Connect N game.
 */
 
