@@ -35,7 +35,7 @@ int main()
 	int numRows;			//size of the board (numRows x numRows)
 	int numToConnect;		//how many gamepieces one needs to connect to win
 
-	int playerID = 1;		//Red makes gets the first turn
+	int playerID = 1;		//Red gets the first turn
 	int moveTries = 0;		//counter for turns
 
 	//variable for choosing where user wants to place his piece
