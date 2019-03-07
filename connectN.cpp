@@ -181,7 +181,7 @@ int main()
 	do
 	{
 		fillcount = 0;
-		//check if the top rows are full
+		//check if the top row is full
 		for(x=0; x<numRows; x++)
 		{
 			if(myConnectNBoard[0][x] != 0)
