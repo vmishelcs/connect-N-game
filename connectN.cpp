@@ -1,9 +1,10 @@
-//Author: Vladimir Mishel
-//Date: 2/11/2019
-
-/*
-Develop an algorithm to implement the Connect N game.
-*/
+/*Author: Vladimir Mishel
+ *Date: 2/11/2019
+ *
+ *
+ *Develop an algorithm to implement the Connect N game.
+ *
+ */
 
 #include <iostream>
 #include <iomanip>
